@@ -1,0 +1,3 @@
+/home/polina/bsu_programming/oS_linux/consoleApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/polina/bsu_programming/oS_linux/consoleApp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/polina/bsu_programming/oS_linux/consoleApp/cmake-build-debug/CMakeFiles/consoleApp.dir
